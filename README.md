@@ -1,0 +1,1 @@
+My first chat server in C#. To be used with the "Chatter-Client".
